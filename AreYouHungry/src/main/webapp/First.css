@@ -1,0 +1,79 @@
+@CHARSET "ISO-8859-1";
+.nav {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.jumbotron {
+  background-image: url('../img/muffin.jpg');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .form-group li{
+  background-image: url('../img/muffin.jpg');
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container h1{
+  position: relative;
+  top:100px;
+  margin-right: auto;
+  margin-left: auto;
+  vertical-align: central;
+}
+
+.jumbotron .container p{
+  position: relative;
+  top:100px;
+  margin-right: auto;
+  margin-left: auto;
+  vertical-align: central;
+}
+
+.jumbotron .container input{
+  position: relative;
+  top:200px;
+  height: 50px;
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.footer{
+    position: relative;
+    left: 50px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.neighborhood-guides{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+    }
+    
+.neighborhood-guides h2{
+    color: #393c3d;
+    font-size: 24px;
+    }
+    
+.neighborhood-guides p{
+   margin-bottom: 13px;
+    font-size: 15px;
+    }

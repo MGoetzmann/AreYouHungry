@@ -1,0 +1,17 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>LD_test</servlet-name>
+  	<display-name>LD_test</display-name>
+  	<description></description>
+  	<servlet-class>ld_fu_API.LD_test</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>LD_test</servlet-name>
+  	<url-pattern>/LD_test</url-pattern>
+  </servlet-mapping>
+</web-app>
